@@ -1,0 +1,16 @@
+--brace-tightness=2
+--square-bracket-tightness=2
+--paren-tightness=0
+
+--nospace-after-keyword="if elsif else unless while for foreach switch case given when"
+
+--closing-brace-indentation=1
+--closing-paren-indentation=1
+--closing-square-bracket-indentation=1
+
+--line-up-parentheses
+--nooutdent-long-lines
+--maximum-line-length=160
+--no-opening-sub-brace-on-new-line
+--stack-opening-tokens
+--nospace-for-semicolon
