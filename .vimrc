@@ -24,6 +24,7 @@ set title
 set hidden
 set history=1000
 colorscheme desert
+syntax sync minlines=256
 
 "% matches if/else, et.
 runtime macros/matchit.vim
